@@ -1,6 +1,6 @@
 # DevOps-Batch3-Kloter1
 
-Sistem Operasi: Kali GNU/Linux Rolling(2020.4)
+Sistem Operasi: Kali GNU/Linux Rolling(2020.4).
 Sumber Artikel:
 - https://medium.com/purwadhikaconnect/mengapa-devops-penting-27dd08115ad3
 - https://medium.com/@raycad.seedotech/devops-methodology-and-process-dde388eb65bd

@@ -1,6 +1,7 @@
 # DevOps-Batch3-Kloter1
 
 Sistem Operasi: Kali GNU/Linux Rolling(2020.4).
+
 Sumber Artikel:
 - https://medium.com/purwadhikaconnect/mengapa-devops-penting-27dd08115ad3
 - https://medium.com/@raycad.seedotech/devops-methodology-and-process-dde388eb65bd
@@ -12,3 +13,4 @@ Sumber Artikel:
 - https://kinsta.com/blog/reverse-proxy/
 - https://idcloudhost.com/mengenal-apa-itu-proxy-defenisi-manfaat-keunggulan-cara-kerja/ 
 - https://www.youtube.com/watch?v=ozhe__GdWC8 
+- https://hub.docker.com/_/nginx
